@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Olimpiadas</string>
+    <string name="txtingressos">Ingressos</string>
+    <string name="txtnome">Nome:</string>
+    <string name="txtidade">Idade:</string>
+    <string name="txtmodalidade">Modalidade</string>
+    <array name="modalidades">
+        <item name="natacao">Natação</item>
+        <item name="atletismo">Atletismo</item>
+        <item name="canoagem">Canoagem</item>
+    </array>
 </resources>
